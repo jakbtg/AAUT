@@ -1,6 +1,7 @@
 # ML-exercises
 
-Esercizi di Machine Learning dell'esame di Apprendimento Automatico dell'Università di Torino tenuto dai professori **Rosa Meo** e **Roberto Esposito**.
+Exercises from the **ML** course (Apprendimento Automatico), University of Turin, Italy.  
+Teachers: **Rosa Meo**, **Roberto Esposito**.
 
-Autore: **Giacomo Grandi**  
-A.A.: **2021-2022**  
+Author: **Giacomo Grandi**.  
+AA: **2021-2022**.
