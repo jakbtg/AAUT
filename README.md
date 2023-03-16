@@ -1,6 +1,6 @@
 # AAUT
 
-Exercises from the **ML** course (Apprendimento Automatico), University of Turin, Italy.  
+Exercises from the **Machine Learning** course (Apprendimento Automatico), University of Turin, Italy.  
 Teachers: **Rosa Meo**, **Roberto Esposito**.
 
 Author: **Giacomo Grandi**.  
