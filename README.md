@@ -1,4 +1,4 @@
-# ML-exercises
+# AAUT
 
 Exercises from the **ML** course (Apprendimento Automatico), University of Turin, Italy.  
 Teachers: **Rosa Meo**, **Roberto Esposito**.
